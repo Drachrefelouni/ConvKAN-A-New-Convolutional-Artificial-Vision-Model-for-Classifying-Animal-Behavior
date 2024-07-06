@@ -3,7 +3,7 @@
 
 
 # test on CNN-KAN cifar10, cifar100
-run python KAN_cifar10.py
+run python KAN_cifar10.py 
 
 run python KAN_cifar100.py
 
